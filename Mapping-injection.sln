@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mapping-injection", "Mapping-injection\Mapping-injection.vcxproj", "{3F116ADB-C8B7-427F-BA73-84DB7705E996}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F116ADB-C8B7-427F-BA73-84DB7705E996}.Debug|x64.ActiveCfg = Debug|x64
+		{3F116ADB-C8B7-427F-BA73-84DB7705E996}.Debug|x64.Build.0 = Debug|x64
+		{3F116ADB-C8B7-427F-BA73-84DB7705E996}.Debug|x86.ActiveCfg = Debug|Win32
+		{3F116ADB-C8B7-427F-BA73-84DB7705E996}.Debug|x86.Build.0 = Debug|Win32
+		{3F116ADB-C8B7-427F-BA73-84DB7705E996}.Release|x64.ActiveCfg = Release|x64
+		{3F116ADB-C8B7-427F-BA73-84DB7705E996}.Release|x64.Build.0 = Release|x64
+		{3F116ADB-C8B7-427F-BA73-84DB7705E996}.Release|x86.ActiveCfg = Release|Win32
+		{3F116ADB-C8B7-427F-BA73-84DB7705E996}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8693E2C-DB19-4E26-91ED-99C7E7BA81E2}
+	EndGlobalSection
+EndGlobal
